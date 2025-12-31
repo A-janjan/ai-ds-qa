@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: eb6d7a95-b6c1-4a26-bc3c-e9cc9874ebbc
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/A-janjan/ai-ds-qa
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png

@@ -1,1 +1,0 @@
-roadmap: https://roadmap.sh/machine-learning
